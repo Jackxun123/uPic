@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./screenshot/logo.png" alt="uPic">
 </div>
-#test
+# test
 # ☁️ 简洁的 Mac 图床客户端 uPic
 
 <div style="display: flex;justify-content: center;" align="center">
