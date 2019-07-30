@@ -2,7 +2,7 @@
   <img src="./screenshot/logo.png" alt="uPic">
 </div>
 
-# ☁️ 简洁的 Mac 图床客户端 uPic
+# ☁️ tiny and quick
 
 <div style="display: flex;justify-content: center;" align="center">
    <a href="https://github.com/gee1k/uPic/stargazers">
