@@ -118,20 +118,20 @@ brew cask install upic
 
 
 
-# 💌 联系我
+# 💌 Contact information
 
 - `Email`: svend.jin@gmail.com
 - `Telegram`: [gee1k](https://t.me/gee1k)
-- `项目地址`: [Github](https://github.com/gee1k/uPic)
-- `uPic 产品交流群(Telegram)`:  [点击加入 TG 群](https://t.me/upic_host)
-- `微信群`:  <small>扫描下方二维码加好友拉你入群 ↓ </small>
+- `github`: [Github](https://github.com/gee1k/uPic)
+- `uPic communication group(Telegram)`:  [click here to join in](https://t.me/upic_host)
+- `Wechat group`:  <small>scan the QR code below to join in ↓ </small>
 
 	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200">
 
 
-# ❤️ 赞助
+# ❤️ Support
 
-如果你喜欢 uPic ，欢迎给我打赏
+If you like uPic,please hit the star button and thanks for your support.
 
 | **Paypal** | **支付宝** | **微信** |
 | :-: | :-: | :-: |
