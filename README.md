@@ -37,7 +37,7 @@ brew cask install upic
 ### 2.Download from github
  click [release](https://github.com/gee1k/uPic/releases) to download
 
-### 检查 Finder 扩展权限
+### Check Finder 扩展权限
 
 - 1.打开 uPic
 
@@ -49,11 +49,11 @@ brew cask install upic
 
 
 
-## 🕹 使用方式
+## 🕹 How to use it
 
-| 功能 | 描述 | 预览 |
+| function | description | previewing |
 | --- | --- | --- |
-| **🖥 选择文件上传** | 从`Finder`选择文件上传 | ![](./screenshot/selectFile.gif) |
+| **🖥 choose file to upload** | 从`Finder`选择文件上传 | ![](./screenshot/selectFile.gif) |
 | **⌨️ 复制文件上传** | 上传已拷贝到剪切板的文件 | ![](./screenshot/paste.gif) |
 | **🖱 拖拽本地文件上传** | 拖拽文件到状态栏上传 | ![](./screenshot/drag-finder.gif) |
 | **🖱 拖拽浏览器图片上传** | 从浏览器拖拽图片到状态栏上传 | ![](./screenshot/drag-browser.gif) |
