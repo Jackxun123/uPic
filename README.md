@@ -133,7 +133,7 @@ brew cask install upic
 
 If you like uPic,please hit the star button and thanks for your support.
 
-| **Paypal** | **支付宝** | **微信** |
+| **Paypal** | **Alipay** | **Wechat** |
 | :-: | :-: | :-: |
 | [@Geee1k](https://paypal.me/geee1k) | ![](./screenshot/qrcode/alipay-mini.jpeg) | ![](./screenshot/qrcode/wechat-zs.JPG) |
 
