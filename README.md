@@ -36,7 +36,7 @@
 brew cask install upic
 ```
 ### 2.Download from github
- [release](https://github.com/gee1k/uPic/releases) 
+ click [release](https://github.com/gee1k/uPic/releases) to download
 
 ### 检查 Finder 扩展权限
 
