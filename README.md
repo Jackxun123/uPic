@@ -39,9 +39,9 @@ brew cask install upic
 
 ### Check Finder 扩展权限
 
-- 1.打开 uPic
+- 1.Run uPic
 
-- 2.打开`系统偏好设置` - `扩展` - `访达扩展` make sure that `uPicFinderExtension` is be selected
+- 2.Open`system preference` - `extensions` - `Finder Extensions` make sure that `uPicFinderExtension` is be selected
 
   <center>
     <img src="./screenshot/finder-extension.png" height="300">
@@ -55,32 +55,33 @@ brew cask install upic
 | --- | --- | --- |
 | **🖥 Pick** | choose file from `Finder` | ![](./screenshot/selectFile.gif) |
 | **⌨️ Copy** | uploud file from clipboard | ![](./screenshot/paste.gif) |
-| **🖱 Drag local file** | Drag file to status bar | ![](./screenshot/drag-finder.gif) |
-| **🖱 Drag from browser** | Drag image to status bar from browser | ![](./screenshot/drag-browser.gif) |
-| **📸 Screenshot** | to capture a screenshot | ![](./screenshot/screenshot.gif) |
+| **🖱 Drag local file** | drag file to status bar | ![](./screenshot/drag-finder.gif) |
+| **🖱 Drag from browser** | drag image to status bar from browser | ![](./screenshot/drag-browser.gif) |
+| **📸 Screenshot** | capture a screenshot | ![](./screenshot/screenshot.gif) |
 | **📂 Right click** | right click to upload | ![](./screenshot/finder-contextmenu.gif) |
 
 
 
-## 🧰 更多功能
+## 🧰 More Functions
 
 **除了以上这些最基本的功能以外，uPic 还提供了一系列小功能让你使用起来更方便更顺心**
+**Except these basic functions,uPic also provides a series of small features to make you use easier and more comfortable.**
 
-<details><summary>1. ⌨︎ 全局快捷键</summary><br>
+<details><summary>1. ⌨︎ global shortcut key</summary><br>
 <p>
 	<center>
 		<img src="./screenshot/shortcuts.png" height="300">
 	</center>
 </p>
 </details>
-<details><summary>2. 🕦 上传历史</summary><br>
+<details><summary>2. 🕦 upload history</summary><br>
 <p>
 	<center>
 		<img src="./screenshot/history.png" height="300">
 	</center>
 </p>
 </details>
-<details><summary>3. 📢 更多功能等待你发现</summary><br>
+<details><summary>3. 📢 more functions are waiting for you to check it out</summary><br>
 <p>
 	...
 </p>
