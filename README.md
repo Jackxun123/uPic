@@ -42,7 +42,7 @@ brew cask install upic
 
 - 1.打开 uPic
 
-- 2.打开`系统偏好设置` - `扩展` - `访达扩展` 确保 `uPicFinderExtension`是勾选状态
+- 2.打开`系统偏好设置` - `扩展` - `访达扩展` make sure that `uPicFinderExtension` was be selected
 
   <center>
     <img src="./screenshot/finder-extension.png" height="300">
@@ -123,7 +123,7 @@ brew cask install upic
 - `Email`: svend.jin@gmail.com
 - `Telegram`: [gee1k](https://t.me/gee1k)
 - `github`: [Github](https://github.com/gee1k/uPic)
-- `uPic communication group(Telegram)`:  [click here to join in](https://t.me/upic_host)
+- `uPic communicate group(Telegram)`:  [click here to join in](https://t.me/upic_host)
 - `Wechat group`:  <small>scan the QR code below to join in ↓ </small>
 
 	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200">
