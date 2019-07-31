@@ -42,7 +42,7 @@ brew cask install upic
 
 - 1.打开 uPic
 
-- 2.打开`系统偏好设置` - `扩展` - `访达扩展` make sure that `uPicFinderExtension` was be selected
+- 2.打开`系统偏好设置` - `扩展` - `访达扩展` make sure that `uPicFinderExtension` is be selected
 
   <center>
     <img src="./screenshot/finder-extension.png" height="300">
