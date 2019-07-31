@@ -2,7 +2,7 @@
   <img src="./screenshot/logo.png" alt="uPic">
 </div>
 
-# ☁️ Terse image hosting software for Mac
+# ☁️ Terse image hosting client for Mac
 
 <div style="display: flex;justify-content: center;" align="center">
    <a href="https://github.com/gee1k/uPic/stargazers">
@@ -17,16 +17,15 @@
 
 ## 📑 Introduction
 
-> **uPic(upload Picture) is a image(file) hosting software for Mac. **
+> **uPic(upload Picture) is a image(file) hosting client for Mac. **
 > You can upload images、files to specified provider’s OSD service which was configured.
 > Before uploading, you can get an url immediately which can be accessed on internet. 
 
 
 
-**💡 特点：** 无论是本地文件、或者屏幕截图都可自动上传，菜单栏显示实时上传进度。上传完成后文件链接自动复制到剪切板，让你无论是在写博客、灌水聊天都能快速插入图片。
-连接格式可以是普通 URL、HTML 或者 Markdown，仍由你掌控。
+**💡 Tips：** They can automatic uploading local file and screenshot,meanwhile the menu bar shows the uploading progress constantly.File's link will automatically copied to the clipboard when finish upload,make you insert pictures quickly when you are blogging or chatting.Link’s format can be a normal URL,HTML or Markdown,it's totally up to you.
 
-**🔋 支持图床：**[smms](https://sm.ms/)、 [又拍云 USS](https://www.upyun.com/products/file-storage)、[七牛云 KODO](https://www.qiniu.com/products/kodo)、 [阿里云 OSS](https://www.aliyun.com/product/oss/)、 [腾讯云 COS](https://cloud.tencent.com/product/cos)、[微博](https://weibo.com/)、[Github](https://github.com/settings/tokens)、 [Gitee](https://gitee.com/profile/personal_access_tokens)、 [Amazon S3](https://aws.amazon.com/cn/s3/)、[自定义上传接口](https://blog.svend.cc/upic/tutorials/custom)、...
+**🔋 Support image hosting：**[smms](https://sm.ms/)、 [UPYUN USS](https://www.upyun.com/products/file-storage)、[qiniu KODO](https://www.qiniu.com/products/kodo)、 [Aliyun OSS](https://www.aliyun.com/product/oss/)、 [TencentCloud COS](https://cloud.tencent.com/product/cos)、[Weibo](https://weibo.com/)、[Github](https://github.com/settings/tokens)、 [Gitee](https://gitee.com/profile/personal_access_tokens)、 [Amazon S3](https://aws.amazon.com/cn/s3/)、[custom upload api](https://blog.svend.cc/upic/tutorials/custom)、...
 
 ## 🚀 How to install
 
