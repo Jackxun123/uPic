@@ -2,7 +2,7 @@
   <img src="./screenshot/logo.png" alt="uPic">
 </div>
 
-# ☁️ terse image hosting software for Mac
+# ☁️ Terse image hosting software for Mac
 
 <div style="display: flex;justify-content: center;" align="center">
    <a href="https://github.com/gee1k/uPic/stargazers">
