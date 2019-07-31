@@ -2,7 +2,7 @@
   <img src="./screenshot/logo.png" alt="uPic">
 </div>
 
-# ☁️ tiny and quick
+# ☁️ terse image hosting software for Mac
 
 <div style="display: flex;justify-content: center;" align="center">
    <a href="https://github.com/gee1k/uPic/stargazers">
@@ -15,7 +15,7 @@
 </div>
 
 
-## 📑 简介
+## 📑 Introduction
 
 > **uPic(upload Picture) 是一款 Mac 端的图床(文件)上传客户端**
 > 可将图片、各种文件上传到配置好的指定提供商的对象存储中。
