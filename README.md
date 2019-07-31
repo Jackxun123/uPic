@@ -110,7 +110,7 @@ brew cask install upic
 <details>
 	<summary>3.Why I finished configuration of image hosting already,image/file upload failed?</summary>
 	<div>
-		<p>maybe you choose the wrong image hosting</p>
+		<p>maybe you choose the wrong image hosting,go to check it out~</p>
 		<img src="./screenshot/default-host.png" width="450">
 	</div> 
 </details>
