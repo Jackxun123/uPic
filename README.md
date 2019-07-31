@@ -28,15 +28,15 @@
 
 **🔋 支持图床：**[smms](https://sm.ms/)、 [又拍云 USS](https://www.upyun.com/products/file-storage)、[七牛云 KODO](https://www.qiniu.com/products/kodo)、 [阿里云 OSS](https://www.aliyun.com/product/oss/)、 [腾讯云 COS](https://cloud.tencent.com/product/cos)、[微博](https://weibo.com/)、[Github](https://github.com/settings/tokens)、 [Gitee](https://gitee.com/profile/personal_access_tokens)、 [Amazon S3](https://aws.amazon.com/cn/s3/)、[自定义上传接口](https://blog.svend.cc/upic/tutorials/custom)、...
 
-## 🚀 如何安装
+## 🚀 How to install
 
-### 下载安装
-#### 1.Homebrew:
+
+### 1.Homebrew:
 ```
 brew cask install upic
 ```
-#### 2.手动
-从 [release](https://github.com/gee1k/uPic/releases) 下载
+### 2.Download from github
+ [release](https://github.com/gee1k/uPic/releases) 
 
 ### 检查 Finder 扩展权限
 
