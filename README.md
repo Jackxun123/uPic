@@ -18,7 +18,7 @@
 ## 📑 Introduction
 
 > **uPic(upload Picture) 是一款 Mac 端的图床(文件)上传客户端**
-> 可将图片、各种文件上传到配置好的指定提供商的对象存储中。
+> You can upload images、files to specified provider’s OSD service which was configured.
 > 然后快速获取可供互联网访问的文件 URL
 
 
