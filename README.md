@@ -53,12 +53,12 @@ brew cask install upic
 
 | function | description | previewing |
 | --- | --- | --- |
-| **🖥 choose file to upload** | 从`Finder`选择文件上传 | ![](./screenshot/selectFile.gif) |
-| **⌨️ 复制文件上传** | 上传已拷贝到剪切板的文件 | ![](./screenshot/paste.gif) |
-| **🖱 拖拽本地文件上传** | 拖拽文件到状态栏上传 | ![](./screenshot/drag-finder.gif) |
-| **🖱 拖拽浏览器图片上传** | 从浏览器拖拽图片到状态栏上传 | ![](./screenshot/drag-browser.gif) |
-| **📸 截图上传** | 直接拉框截图上传 | ![](./screenshot/screenshot.gif) |
-| **📂 Finder 中右键上传** | 右击文件上传 | ![](./screenshot/finder-contextmenu.gif) |
+| **🖥 Pick** | choose file from `Finder` | ![](./screenshot/selectFile.gif) |
+| **⌨️ Copy** | uploud file from clipboard | ![](./screenshot/paste.gif) |
+| **🖱 Drag local file** | Drag file to status bar | ![](./screenshot/drag-finder.gif) |
+| **🖱 Drag from browser** | Drag image to status bar from browser | ![](./screenshot/drag-browser.gif) |
+| **📸 Screenshot** | to capture a screenshot | ![](./screenshot/screenshot.gif) |
+| **📂 Right click** | right click to upload | ![](./screenshot/finder-contextmenu.gif) |
 
 
 
