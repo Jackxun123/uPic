@@ -37,7 +37,7 @@ brew cask install upic
 ### 2.Download from github
  click [release](https://github.com/gee1k/uPic/releases) to download
 
-### Check Finder 扩展权限
+### Check Finder Extensions's authority
 
 - 1.Run uPic
 
@@ -64,8 +64,7 @@ brew cask install upic
 
 ## 🧰 More Functions
 
-**除了以上这些最基本的功能以外，uPic 还提供了一系列小功能让你使用起来更方便更顺心**
-**Except these basic functions,uPic also provides a series of small features to make you use easier and more comfortable.**
+**Except these basic functions,uPic also provides a series of small features to improve user experience.**
 
 <details><summary>1. ⌨︎ global shortcut key</summary><br>
 <p>
@@ -92,26 +91,26 @@ brew cask install upic
 ## ❓ 常见问题
 
 <details>
-	<summary>1.图床如何配置❓</summary>
+	<summary>1.How to configurate image hosting❓</summary>
 	<ul>
-		<li><a href="https://blog.svend.cc/upic/tutorials/weibo" target="_blank">uPic 图床配置教程 - 微博</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/upyun_uss" target="_blank">uPic 图床配置教程 - 又拍云</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/qiniu_kodo" target="_blank">uPic 图床配置教程 - 七牛云</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/aliyun_oss" target="_blank">uPic 图床配置教程 - 阿里云</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/tencent_cos" target="_blank">uPic 图床配置教程 - 腾讯云</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/amazon_s3" target="_blank">uPic 图床配置教程 - Amazon S3</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/github" target="_blank">uPic 图床配置教程 - Github</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/gitee" target="_blank">uPic 图床配置教程 - 码云(Gitee)</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/custom" target="_blank">uPic 图床配置教程 - 自定义上传</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/weibo" target="_blank">uPic configuration - Weibo</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/upyun_uss" target="_blank">uPic configuration - UPYUN</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/qiniu_kodo" target="_blank">uPic configuration - Qiniu</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/aliyun_oss" target="_blank">uPic configuration - Aliyun</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/tencent_cos" target="_blank">uPic configuration - TencentCloud</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/amazon_s3" target="_blank">uPic configuration - Amazon S3</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/github" target="_blank">uPic configuration - Github</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/gitee" target="_blank">uPic configuration - Gitee(Gitee)</a></li>
+		<li><a href="https://blog.svend.cc/upic/tutorials/custom" target="_blank">uPic configuration - custom upload</a></li>
 	</ul>
 </details>
-<details><summary>2. Finder 扩展不工作了❓</summary><br>
-<p>由于 Finder 扩展是只要加上之后会一直都存在，所以当你遇到 Finder 扩展操作无反应的时候，可能是 uPic 主程序没有打开</p>
+<details><summary>2. Finder extension doesn't work❓</summary><br>
+<p>Because of Finder extension will always be selected after select action was done.So if you come across Finder extension operation is unresponsive,maybe uPic program was not runing.</p>
 </details>
 <details>
-	<summary>3.为什么我配置了图床，图片/文件却没有上传到我的图床中</summary>
+	<summary>3.Why I finished configuration of image hosting already,image/file upload failed?</summary>
 	<div>
-		<p>配置好的图床可以在菜单栏`图床`中选择。选中的图床就是您接下来文件会上传到的图床</p>
+		<p>maybe you choose the wrong image hosting</p>
 		<img src="./screenshot/default-host.png" width="450">
 	</div> 
 </details>
